@@ -1,0 +1,3 @@
+id: 01
+name: "Nguyen Van A"
+class: "ABC"
