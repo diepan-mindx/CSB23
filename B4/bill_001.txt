@@ -1,0 +1,10 @@
+Bill ID: 001
+Voucher: ABC
+Loyalty Discount: 0.0%
+Bulk Order Discount: 0.0%
+Total (after discounts): $11.502
+Score (after order): 1
+
+Items:
+- Milk (x2) [$2.49] = $4.98
+- Coffee (x1) [$7.8] = $7.8
