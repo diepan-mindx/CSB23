@@ -1,9 +1,9 @@
-Bill ID: 001
-Voucher: ABC
+Bill ID: 002
+Voucher: 
 Loyalty Discount: 15.0%
 Bulk Order Discount: 0%
-Total (after discounts): $58500.00
-Score (after order): 5850
+Total (after discounts): $55250.00
+Score (after order): 11375
 
 Items:
 Item(id=1, name='Milk', price=25000) | Quantity: 2
